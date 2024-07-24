@@ -1,5 +1,7 @@
 # Quiz Component (MAIN Component)
 
+# MAJOR CHANGES COMING
+
 The Quiz component is a React-based quiz application that supports multiple languages. Users can select a language, answer questions, and view their score at the end of the quiz.
 
 ![Clock App Screenshot](./.github/screen.png)
