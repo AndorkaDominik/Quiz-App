@@ -1,6 +1,6 @@
 # Quiz Component (MAIN Component)
 
-# MAJOR CHANGES COMING
+# MAJOR CHANGES COMING (WORKING ON IT)
 
 The Quiz component is a React-based quiz application that supports multiple languages. Users can select a language, answer questions, and view their score at the end of the quiz.
 
